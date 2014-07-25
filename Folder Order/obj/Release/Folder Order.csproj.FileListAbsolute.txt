@@ -1,0 +1,31 @@
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Release\Folder Order.exe.config
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Release\Folder Order.exe
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Release\Folder Order.pdb
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Release\Ookii.Dialogs.Wpf.dll
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Release\Ookii.Dialogs.Wpf.xml
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\MainWindow.baml
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\MainWindow.g.cs
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\App.g.cs
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\Folder Order_MarkupCompile.cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\Folder Order.g.resources
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\Folder_Order.Properties.Resources.resources
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\Folder Order.csproj.GenerateResource.Cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\Folder Order.exe
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Release\Folder Order.pdb
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Folder Order.exe.config
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder Order.exe
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder Order.pdb
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Folder Order.exe
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Folder Order.pdb
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Ookii.Dialogs.Wpf.dll
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Ookii.Dialogs.Wpf.xml
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder Order.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\MainWindow.baml
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\MainWindow.g.cs
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\App.g.cs
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder Order_MarkupCompile.cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder Order.g.resources
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder_Order.Properties.Resources.resources
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\obj\Release\Folder Order.csproj.GenerateResource.Cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Resources\Ookii.Dialogs.Wpf.dll
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\.git\objects\pack\Folder Order\bin\Release\Resources\Ookii.Dialogs.Wpf.xml

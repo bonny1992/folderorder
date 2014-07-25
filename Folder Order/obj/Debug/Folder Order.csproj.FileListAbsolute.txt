@@ -1,0 +1,15 @@
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Debug\Folder Order.exe.config
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Debug\Folder Order.exe
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Debug\Folder Order.pdb
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\MainWindow.baml
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\App.g.cs
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder Order_MarkupCompile.cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder Order.g.resources
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder_Order.Properties.Resources.resources
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder Order.csproj.GenerateResource.Cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder Order.exe
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder Order.pdb
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\obj\Debug\Folder Order.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\Dropbox\Public\Programmazione\Visual Studio 2012\Folder Order\Folder Order\bin\Debug\Ookii.Dialogs.Wpf.xml
