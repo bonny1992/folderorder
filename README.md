@@ -3,10 +3,18 @@ FolderOrder
 
 How-To
 ===========
+You have to do one of those two things:
+
 - Simply compile with Visual Studio 2012 or more.
 
-or
+- Download precompiled .rar file here 
+	https://github.com/bonny1992/folderorder/tree/master/Folder%20Order/bin/Release
 
-- Download precompiled .rar file here https://github.com/bonny1992/folderorder/raw/master/Folder%20Order/bin/Release/folderorder-1.2build.rar
+
+Requirements
+===========
+- .NET Framework 4.5
+- Uses Ookii's Dialogs
+
 
 ===========
